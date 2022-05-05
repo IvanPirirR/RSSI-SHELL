@@ -6,7 +6,7 @@ Bluetooth: Central
 Overview
 ********
 
-Application adding basic commands to read and monitor the Received Signal Strength Indicator (rssi)
+Application adding basic shell commands to read and monitor the Received Signal Strength Indicator (rssi)
 
 
 
