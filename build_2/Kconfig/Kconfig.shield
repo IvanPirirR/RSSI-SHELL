@@ -1,0 +1,2 @@
+osource "c:/Users/ivpi/mytestfolder/CS_shell/boards/shields/*/Kconfig.shield"
+osource "C:/Users/ivpi/ncs/v1.9.1/nrf/boards/shields/*/Kconfig.shield"
